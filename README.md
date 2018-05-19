@@ -19,7 +19,7 @@ The following commands will download the tarball for this repository,
 and unpack it.
 
 ```
-wget https://github.com/roelj/guile-sparql/archive/master.tar.gz
+wget https://github.com/guixwl/gwl-starter/archive/master.tar.gz
 tar axvf master.tar.gz
 ```
 
