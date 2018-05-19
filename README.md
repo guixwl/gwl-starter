@@ -83,7 +83,8 @@ the `gwl-starter` repository.
       ("automake" ,automake)
       ("pkg-config" ,pkg-config)))
    (inputs
-    `(("guix" ,guix)
+    `(("guile" ,guile-2.2)
+      ("guix" ,guix)
       ("gwl" ,gwl)))
    (home-page "https://github.com/guixwl/gwl-starter")
    (synopsis "Workflow to demonstrate the working of GWL.")
